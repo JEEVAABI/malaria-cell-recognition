@@ -11,7 +11,7 @@ Traditional methods of malaria diagnosis involve manual inspection of blood smea
 
 Our dataset comprises 27,558 cell images, evenly split between parasitized and uninfected cells. These images have been meticulously collected and annotated by medical experts, making them a reliable source for training and testing our deep neural network.
 ## dataset:
-
+![output](dataset.png)
 ## Neural Network Model
 
 ![output](network.png)
